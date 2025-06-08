@@ -1,0 +1,7 @@
+pandas
+requests
+python-dotenv
+schedule
+slack_sdk
+twilio
+openpyxl
